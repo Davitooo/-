@@ -1,2 +1,2 @@
-# Java script
+# Java script Fundamentals
 
